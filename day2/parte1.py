@@ -30,3 +30,5 @@ for element in file:
 result = points + points_2
    
 print(result)
+
+file.close()

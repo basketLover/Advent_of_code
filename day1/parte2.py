@@ -17,4 +17,4 @@ print(array)
 
 result = array[0] + array[1] + array[2]
 print(result)
-   
+file.close()

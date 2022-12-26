@@ -23,4 +23,4 @@ for element in file:
 
 print(points)
 
-
+file.close()

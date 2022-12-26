@@ -15,3 +15,4 @@ for element in array:
         max = element
 
 print(max)
+file.close()
